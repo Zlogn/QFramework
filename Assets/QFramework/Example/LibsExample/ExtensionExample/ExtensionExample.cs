@@ -66,11 +66,11 @@ namespace QFramework.Example
 
 		private static void CSharpExtensions()
 		{
-			ClassExtention.Example();
-			FuncOrActionOrEventExtension.Example();
-			GenericExtention.Example();
-			IEnumerableExtension.Example();
-			IOExtension.Example();
+			// ClassExtention.Example();
+			// FuncOrActionOrEventExtension.Example();
+			// GenericExtention.Example();
+//			IEnumerableExtension.Example();
+//			IOExtension.Example();
 			OOPExtension.Example();
 			ReflectionExtension.Example();
 			StringExtention.Example();
